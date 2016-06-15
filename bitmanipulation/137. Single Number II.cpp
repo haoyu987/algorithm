@@ -1,5 +1,7 @@
 /* Given an array of integers, every element appears three times except for one. Find that single one.
 
+https://leetcode.com/discuss/31595/detailed-explanation-generalization-bitwise-operation-numbers
+
 The code seems tricky and hard to understand at first glance. However, if you consider the problem in Boolean algebra form, 
 everything becomes clear.
 
