@@ -1,6 +1,7 @@
 /* Given an array of integers, every element appears three times except for one. Find that single one.
 
 https://leetcode.com/discuss/31595/detailed-explanation-generalization-bitwise-operation-numbers
+https://leetcode.com/discuss/54970/an-general-way-to-handle-all-this-sort-of-questions
  One straightforward way would be creating 32 counters for each bit in the integer.
 https://leetcode.com/discuss/56524/a-general-c-solution-for-these-type-problems
 
