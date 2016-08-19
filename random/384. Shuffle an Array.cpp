@@ -1,4 +1,5 @@
 // http://www.cplusplus.com/reference/random/
+// http://www.geeksforgeeks.org/shuffle-a-given-array/
 // https://discuss.leetcode.com/topic/53979/straight-forward-c-solution
 
 class Solution {
